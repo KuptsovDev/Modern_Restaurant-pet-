@@ -1,6 +1,7 @@
 {
   "name": "project_modern_restaurant",
   "version": "0.1.0",
+  "homepage": "https://kuptsovdev.github.io/Modern_Restaurant-pet-/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
