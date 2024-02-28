@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Modern_Restaurant-pet-/static/css/main.2b9c4faa.css",
+    "main.js": "/Modern_Restaurant-pet-/static/js/main.f8cc254a.js",
+    "static/media/meal.mp4": "/Modern_Restaurant-pet-/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Modern_Restaurant-pet-/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/Modern_Restaurant-pet-/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/Modern_Restaurant-pet-/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/Modern_Restaurant-pet-/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/Modern_Restaurant-pet-/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/Modern_Restaurant-pet-/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/Modern_Restaurant-pet-/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/Modern_Restaurant-pet-/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/Modern_Restaurant-pet-/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/Modern_Restaurant-pet-/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/Modern_Restaurant-pet-/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Modern_Restaurant-pet-/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/Modern_Restaurant-pet-/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/Modern_Restaurant-pet-/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Modern_Restaurant-pet-/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Modern_Restaurant-pet-/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Modern_Restaurant-pet-/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Modern_Restaurant-pet-/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Modern_Restaurant-pet-/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/Modern_Restaurant-pet-/index.html",
+    "static/media/spoon.svg": "/Modern_Restaurant-pet-/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.2b9c4faa.css.map": "/Modern_Restaurant-pet-/static/css/main.2b9c4faa.css.map",
+    "main.f8cc254a.js.map": "/Modern_Restaurant-pet-/static/js/main.f8cc254a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9c4faa.css",
+    "static/js/main.f8cc254a.js"
+  ]
+}
